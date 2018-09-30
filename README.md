@@ -20,3 +20,4 @@ dotnet run
 # Copy from common gsutil storage bucket
 
 gsutil cp gs://cloud-samples-data/bigquery/us-states/us-states.json .
+https://codelabs.developers.google.com/codelabs/cloud-bigquery-csharp/#10
